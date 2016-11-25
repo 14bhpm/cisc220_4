@@ -19,6 +19,6 @@ int main(){
 	substring(source, from, n, target);
 	newString = safestrcat(a, b);
 	printf("Result from substring: %s, result from safestrcat: %s \n", target, newString);
-	
+	free(newString);
 	
 }

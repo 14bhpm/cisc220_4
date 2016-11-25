@@ -3,6 +3,10 @@
 #include <stdlib.h>
 #include "mystring.h"
 
+/* Rawan Alsaadi 10081442 	*
+ * Omar Toutounji 10169506	*
+ * Beltan Michel 10169162	*/
+
 char* safestrcat(char *a, char *b){
 	
 	/* These three statements will calculate the length of a, of b,	*

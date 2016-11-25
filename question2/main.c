@@ -3,6 +3,10 @@
 #include <string.h>
 #include "mystring.h"
 
+/* Rawan Alsaadi 10081442 	*
+ * Omar Toutounji 10169506	*
+ * Beltan Michel 10169162	*/
+
 int main(){
 	
 	char* a = "A first string, ";
